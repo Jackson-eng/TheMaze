@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="TheMaze:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/TheMaze</output-path>
-    <root id="archive" name="TheMaze.jar">
-      <element id="module-output" name="TheMaze" />
-    </root>
-  </artifact>
-</component>
